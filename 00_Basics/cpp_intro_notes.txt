@@ -1,0 +1,32 @@
+📘 Chapter 1: Introduction to C++
+
+Q.1. What is C++?
+    C++ is a high-performance, general-purpose compiled programming language developed by Bjarne Stroustrup at Bell Labs in the early 1980s.
+    It supports multiple programming paradigms including:
+        * Procedural programming (like C)
+        * Object-oriented programming
+        * Generic programming using templates
+    C++ combines the power of C with the modern features like classes, objects, inheritance, and more.
+
+📚 Key Features of C++
+    Feature	                            Description
+    Compiled	                        Converts source code to machine code
+    Fast Execution	                    Close to hardware, minimal overhead
+    OOP Support	                        Classes, objects, inheritance, polymorphism
+    STL (Standard Template Library)	    In-built data structures and algorithms
+    Portable	                        Runs on different operating systems
+    Extensible	                        You can add new features easily
+
+📆 History of C++
+    Year	                    Event
+    1979	                    Bjarne Stroustrup begins work on "C with Classes"
+    1983	                    Renamed to C++
+    1998	                    First official ISO standard
+    C++11 / 14 / 17 / 20 / 23	Modern versions with big improvements like auto, lambda, ranges, modules, etc.
+
+Q.2. Why Learn C++ in 2025?
+    * Fastest language after C
+    * Loved by Competitive Programmers (Codeforces, AtCoder, etc.)
+    * FAANG interviews prefer C++ for performance
+    * Big STL support (vectors, maps, stacks, etc.)
+    * Deep understanding of memory & logic
